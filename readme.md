@@ -24,5 +24,3 @@ Para executar o código, basta instalar as dependências e executar o arquivo Py
 `pip install -r requirements.txt`
 
 `python amazon_scraper.py` 
-
-É importante notar que o código pode ser executado de forma bastante lenta, dependendo do número de URLs na lista e do tempo de resposta da Amazon para cada requisição. Portanto, tenha paciência ao executar o código.
